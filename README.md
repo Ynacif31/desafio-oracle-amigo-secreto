@@ -11,7 +11,7 @@ Este é um projeto simples de **Amigo Secreto**, desenvolvido com **HTML, CSS e 
 
 ## 📷 Captura de Tela
 
-![Amigo Secreto Preview](assets/screenshot.png)
+![Amigo Secreto Preview](assets/SCR-20250318-meof.png)
 
 ## 📂 Como Usar
 
@@ -32,7 +32,7 @@ Este é um projeto simples de **Amigo Secreto**, desenvolvido com **HTML, CSS e 
 ## 🌍 Publicação no GitHub Pages
 
 Este projeto está disponível online através do GitHub Pages:
-🔗 [Acesse aqui](https://Ynacif31.github.io/amigo-secreto/)
+🔗 [Acesse aqui]( https://ynacif31.github.io/desafio-oracle-amigo-secreto/)
 
 ## 🤝 Contribuindo
 
